@@ -1,0 +1,90 @@
+body{
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header #eu{
+    border-radius: 50%;  
+    position: relative;
+
+}
+.container{
+    justify-content: center;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url('https://i.pinimg.com/originals/bc/9c/af/bc9caf2d44ae2105d9ae0c0644c1cd54.jpg');
+
+
+}
+.menu{
+    position: relative;
+    top: -16px;
+
+}
+.menu ul {
+    background-color: #4305b6;
+    list-style:none;
+
+
+
+   
+    
+}
+.menu ul li {
+    display: inline; 
+    padding: 1px;
+    position: relative;
+    right: 2%;
+    
+    
+}
+.menu ul li a {
+    padding: 10px 10px;
+    display: inline-block;
+    background-color: #4305b6	;
+    color: white;  
+    text-decoration: none;
+
+    
+}
+.menu ul li a:hover {
+    background-color:#4305b6;
+    color: #4305b6;
+    
+}
+.quadrado{
+    background: #4305b6;
+    width: 600px;
+    
+}
+
+.fundo{
+    background: #4305b6;
+    height: 360px;
+    width: 600px;
+  
+}
+.fundo form{
+    position:relative;
+    left: 10%;
+}
+.fundomaps{
+    background: #4305b6;
+    height: 330px;
+    width: 600px;
+
+}
+
+.fundomaps iframe{
+    position:relative;
+    top: 15px;
+}
+
+    
